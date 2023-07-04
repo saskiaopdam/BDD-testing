@@ -1,5 +1,8 @@
-# betsy-webshop-remake
+# Besty Webshop Remake
 *Expres gemankeerde webshop*
+
+## Deploy
+Bekijk de [APP LIVE](https://betsy-webshop-remake.ew.r.appspot.com) op Google App Engine.
 
 ## STARR
 
