@@ -24,6 +24,7 @@ Uitzoeken hoe login te testen:
 
 Gedaan:
 - Python Behave install + tutorial
+- Flask integratie met Behave
 
 App = Python webapp met Flask FE en sqlite database
 
