@@ -6,7 +6,7 @@ from behave import fixture, use_fixture
 from main import app, init_db
 
 @fixture
-def flaskr_client(context, *args, **kwargs):
+def main_client(context, *args, **kwargs):
     context.db, app.config['DATABASE'] = tempfile.mkstemp()
     app.testing = True
     context.client = app.test_client()
@@ -17,6 +17,6 @@ def flaskr_client(context, *args, **kwargs):
     os.close(context.db)
     os.unlink(app.config['DATABASE'])
 
-def before_feature(context, feature):
-    # -- HINT: Recreate a new flaskr client before each feature is executed.
-    use_fixture(flaskr_client, context)
+# def before_feature(context, feature):
+#     # -- HINT: Recreate a new flaskr client before each feature is executed.
+#     use_fixture(main_client, context)
