@@ -3,7 +3,7 @@ import tempfile
 from behave import fixture, use_fixture
 # flaskr is the sample application we want to test
 # from flaskr import app, init_db
-from app import app, init_db
+from main import app, init_db
 
 @fixture
 def flaskr_client(context, *args, **kwargs):
