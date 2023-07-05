@@ -18,9 +18,14 @@ Mijn taak: login testen.
 
 ### Actie
 Uitzoeken hoe login te testen:
-- Cucumber BDD voor Python?
+- Cucumber BDD voor Python: Python Behave (Flask integratie)?
 - Selenium Webdriver?
 - Anders?
 
+Gedaan:
+- Python Behave install + tutorial
+
+App = Python webapp met Flask FE en sqlite database
+
 ### Resultaat
-...
+Eerste Behave testen uit tutorial passed/failed, dus Behave BDD basis onder de knie.
