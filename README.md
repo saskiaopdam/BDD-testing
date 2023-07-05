@@ -17,16 +17,14 @@ Testen schrijven - BDD
 Mijn taak: login testen. 
 
 ### Actie
-Uitzoeken hoe login te testen:
-- Cucumber BDD voor Python: Python Behave (Flask integratie)?
-- Selenium Webdriver?
-- Anders?
+Uitgezocht: welke test tools zijn geschikt (app = Python webapp met Flask FE en sqlite database):
+- Cucumber BDD
+- Selenium Webdriver
 
 Gedaan:
-- Python Behave install + tutorial
+- Python Behave install + eerste script (trial)
 - Flask integratie met Behave
-
-App = Python webapp met Flask FE en sqlite database
+- Selenium install + eerste script (trial)
 
 ### Resultaat
-Eerste Behave testen uit tutorial passed/failed, dus Behave BDD basis onder de knie.
+Eerste kennismaking met Cucumber + Selenium WebDriver. Script op proef geschreven en gerund, met succes. (Behave test pass, Selenium test print titel van webapp in CLI). Vervolg: scripts schrijven om werkelijk de login te testen.
