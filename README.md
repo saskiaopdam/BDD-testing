@@ -24,7 +24,8 @@ Uitgezocht: welke test tools zijn geschikt (app = Python webapp met Flask FE en 
 Gedaan:
 - Python Behave install + eerste script (trial)
 - Flask integratie met Behave
-- Selenium install + eerste script (trial)
+- Selenium install + eerste script (trial) - title printen
+- Selenium login test script - o.a. welkomstboodschap printen
 
 ### Resultaat
 Eerste kennismaking met Cucumber + Selenium WebDriver. Script op proef geschreven en gerund, met succes. (Behave test pass, Selenium test print titel van webapp in CLI). Vervolg: scripts schrijven om werkelijk de login te testen.
