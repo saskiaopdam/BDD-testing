@@ -3,7 +3,7 @@
 
 ## Deploy
 App stond op Google App Engine, maar is inmiddels weggehaald.
-Dode link: [APP LIVE](https://betsy-webshop-remake.ew.r.appspot.com) op Google App Engine.
+[(dode link)](https://betsy-webshop-remake.ew.r.appspot.com) op Google App Engine.
 
 ## STARR
 
