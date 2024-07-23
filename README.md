@@ -2,7 +2,8 @@
 *Expres gemankeerde webshop*
 
 ## Deploy
-Bekijk de [APP LIVE](https://betsy-webshop-remake.ew.r.appspot.com) op Google App Engine.
+App stond op Google App Engine, maar is inmiddels weggehaald.
+Dode link: [APP LIVE](https://betsy-webshop-remake.ew.r.appspot.com) op Google App Engine.
 
 ## STARR
 
